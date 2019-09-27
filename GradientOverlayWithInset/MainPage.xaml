@@ -33,7 +33,6 @@
             <Label Text="Dark Ice Interactive"
                    TextColor="DarkGreen" />
         </StackLayout>
-
         <Grid  Grid.Row="1"
                CompressedLayout.IsHeadless="true"
                Padding="16">
@@ -46,3 +45,4 @@
         </Grid>
     </Grid>
 </ContentPage>
+
